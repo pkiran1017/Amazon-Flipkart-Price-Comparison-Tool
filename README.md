@@ -1,5 +1,5 @@
 
-![Logo](https://raw.githubusercontent.com/pkiran101714/Amazon-Flipkart-Price-Comparison-Tool/master/Screen_Shots/amazonflip%20logo.png)
+  ![Logo](https://raw.githubusercontent.com/pkiran101714/Amazon-Flipkart-Price-Comparison-Tool/master/Screen_Shots/amazonflip%20logo.png)
 
 
 # Amazon-Flipkart-Price-Comparison-Tool
@@ -19,7 +19,9 @@ This Tool Compares price of the product entered by the user from e-commerce site
 - Open python compiler.
 - Create new python project or if you have PyCharm then download this code and open this project in PyCharm.
 - In case of other compiler, Open main.py file and copy code from it and paste it into your project.
-- Install bs4 library & requests library.
+- Install bs4 library & requests library.![amazonflip logo](https://user-images.githubusercontent.com/63492340/144906784-24b31dcc-34a9-46d3-a44c-240e1f726098.png)![amazonflip logo](https://user-images.githubusercontent.com/63492340/144906796-b101c178-c7c8-49d9-b72d-b0cd7d2cba37.png)
+
+
 - Just compile & run your code.
 ## How This Tool Works
 ### Step 1
