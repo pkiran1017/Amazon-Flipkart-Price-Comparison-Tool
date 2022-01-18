@@ -66,6 +66,6 @@ Currently this program works only on two e-commerce sites Amazon & Flipkart. Mor
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Pkiran101714)
 
 
-## Support
+## Support & help
 
-For support, email https://t.me/ekalone1017.
+For support, Telegram https://t.me/ekalone1017.
