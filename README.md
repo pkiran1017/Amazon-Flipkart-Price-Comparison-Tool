@@ -5,6 +5,14 @@
 # Amazon-Flipkart-Price-Comparison-Tool
 
 This Tool Compares price of the product entered by the user from e-commerce sites Amazon and Flipkart 💰 📊
+
+## Features
+
+- Easy To Use / User friendly interface.
+- Suggestions Available.
+- Easy to Compare.
+- Open Source.
+
 ## Requirements
 
 - Python.
@@ -47,15 +55,6 @@ Then click on visit site to visit product page or If you didn't get the desired 
 Select the desired product from the suggestions for both sites and then click on the 'Search' button to get their corresponding prices.
 
 ![App Screenshot](https://raw.githubusercontent.com/pkiran101714/Amazon-Flipkart-Price-Comparison-Tool/master/Screen_Shots/Select%20desired%20product.png)
-
-
-
-## Features
-
-- Easy To Use / User friendly interface.
-- Suggestions Available.
-- Easy to Compare.
-- Open Source.
 
 
 ## Future Scope
